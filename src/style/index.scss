@@ -13,3 +13,15 @@
   padding: 0 15px;
   margin: 0 auto;
 }
+.user-list{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  border: 2px solid teal;
+}
+.user{
+  display: flex;
+  padding: 20px;
+  border: 2px solid black;
+}

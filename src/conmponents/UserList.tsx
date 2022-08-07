@@ -5,6 +5,9 @@ const UserList:FC = () => {
     return (
         <div className='user-list'>
             <User/>
+            <User/>
+            <User/>
+            <User/>
         </div>
     );
 };
